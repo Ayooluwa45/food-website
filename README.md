@@ -1,2 +1,2 @@
 # food-website
-A reponsive static food website page using Html, Css and Javascript
+A responsive static food website page using Html, Css and Javascript
